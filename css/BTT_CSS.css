@@ -1,0 +1,390 @@
+
+
+#links{
+	width:1350px;
+	height:50px;
+	border-top:5px ridge grey;
+	border-bottom:5px ridge grey;
+	padding:20px;
+	margin: 0px auto 0px auto;
+	text-align:centre;}
+
+li{	
+	width:165px;
+	height:170;
+	display:inline;
+	border:2px solid black;
+	margin: 50;
+	}
+
+
+img{
+	}
+	
+
+	
+/*from main*/
+body {width: 100%;
+	margin: 0px auto;
+	background-color:#0cd1d1;
+	}
+
+.homepage{width:90%;
+	margin: 0px auto;	
+	background-color:rgb(255,255,200);
+	overflow:auto;
+	padding-left:2%;
+	padding-bottom:10px;
+	}
+	
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+ul #links{width:100%;}
+
+body li {
+	border:2px solid #fff23a;
+    float: left;
+}
+
+
+
+.header li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 14px;
+    text-decoration: none;
+	z-index:100;
+	font-family:indie flower;
+	font-size:20px;
+	
+}
+
+.header li a:hover, .dropdown:hover .dropbtn {
+    background-color: rgb(255,242,58);
+}
+
+.header li.dropdown {
+    display: inline-block;
+}
+
+.header .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	
+}
+
+.header .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.header .dropdown-content a:hover {background-color: #f1f1f1;}
+
+.header .dropdown:hover .dropdown-content {
+    display: block;
+}
+
+h1{font-family:indie flower;
+	color:#0cd1d1;
+	align:left;
+	margin:5px auto;
+	position:relative;
+	font-size:40px;
+	}
+	
+
+
+	
+img{background-color: 
+}
+	
+.image {
+   position: relative; 
+   height:100%;
+   width:100%;
+   z-index:-2;
+}
+	
+
+h2{color:white;
+	font-size:40px;
+	float:left;
+	bottom:0px;	
+	position: absolute;
+	font-family: Raleway;
+	font-weight:900;
+	text-shadow: 0px 0px 5px #000;}
+	
+
+
+	
+.column1, .column2, .column3, .column4, .column5, .column6, .column7, .column8, .column9, .NA4{
+				width: 30%;
+				height: 175px;
+				float: left;
+				margin: 1%;
+				border:none;
+				position: relative;
+				z-index:105;
+				}
+				
+				
+.column3, .column6, .column9{
+		margin-right: 0%;}	
+
+.column1{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Top_appsc-15.png");}
+
+.column2{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Accommodation_sign.jpg");}
+
+.column3{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Transport1.jpg");}
+		
+.column4{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Europe_capitals_culture_resized.png");
+		
+		}
+		
+.column5{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/asia_landmark_building_colored_vectortp.gif");
+		background-repeat: no-repeat;}
+
+.column6{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/acrylic-fridge-magnet-ireland-dublin-cartoon1.gif");
+		background-repeat: no-repeat;}
+		
+.column7{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/NY1c-15.jpg");}
+
+.column8{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Chicago1.jpeg");}
+
+.column9{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Vancouver1.jpg");}
+
+
+
+
+
+
+
+.column1:hover,.column2:hover,.column3:hover,.column4:hover,.column5:hover,.column6:hover,.column7:hover,.column8:hover,.column9:hover,.Asia1:hover,.Asia2:hover,.Asia100:hover,.Asia200:hover,.NA1:hover,.NA2:hover, .chi1:hover,.chi100:hover,.NY1:hover,.NY100:hover,.extra5:hover,.extratran:hover,.extraaccom:hover, .Asia300:hover, .NA100:hover, .NA4:hover,.Eur100:hover{opacity:0.4;
+			}
+			
+
+
+footer {height:130px;
+  text-align: center;
+	width:100%;
+	background-color: #333;
+	display:block;
+	}
+	
+.allfoot{border-top:5px ridge grey;}
+
+.foot1, .foot2, .foot3, .foot4 {width:10%;
+								height:60px;
+								float: left;
+								margin:1% 7.5% 0% 7.5%;
+								}
+								
+.foot4{margin-right: 0%;}
+
+footer li{float:left;
+			border:none;
+			color:white;}
+			
+footer li a {float:left;
+			border:none;
+			color:white;}
+	
+footer, .foot1 li a:hover{float:left;
+				border:none;
+				color:white;
+				}
+				
+h5{font-family:Arial;
+	color:white;}		
+		
+
+	
+h4{font-family: "Open Sans",sans-serif;
+	font-size:20px;
+	margin-top:0px;}
+			
+h3{font-family:indie flower;
+	font-size:40px;
+	color:#0cd1d1;
+	margin-bottom:0px;
+	margin-top:0px;
+	padding-top:10px;
+	}
+	
+
+p{font-family: "Open Sans",sans-serif;
+	color: black;
+	font-size:16px;
+	line-height: 24px;
+	letter-spacing: 1px;}
+
+#lastp{margin-bottom:0px;
+		padding-bottom:10px;}
+
+.article_page {float:left;
+				width:60%;
+				margin-left:5%;
+				margin-right:0%;
+				 border-left-style: ridge;
+				border-right-style: ridge;
+				padding-left:2%;
+				background-color:rgb(255,255,200); 
+				overflow:auto;}
+				
+
+				
+.morestories{width:30%;
+			margin-left:2%;
+			float:left;
+			}
+			
+.NA1, .NA2, .Asia1, .Asia100,.Asia2, .Asia200, .Asia300, .NA100, .chi1, .chi100, .NY1, .NY100,.extra5,.extratran,.extraaccom,.Eur100{
+				height: 175px;
+				float: left;
+				margin: 1%;
+				border:none;
+				position: relative;
+				z-index:105;
+				background-repeat: no-repeat;}
+			
+.chi1{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Chicago1.jpeg");
+	width:30%;}
+	
+.chi100{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Chicago1.jpeg");
+	width:100%;}
+
+.van1{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Vancouver1.jpg");
+	width:30%;
+}
+
+.NY1{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/NY1c-15.jpg");
+	width:30%;}
+	
+.NY100{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/NY1c-15.jpg");
+	width:100%;}
+	
+.Asia1{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Southeast-asia1.jpg");
+		width:30%}
+		
+.Asia100{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Southeast-asia1.jpg");
+		width:100%}
+
+.Asia2{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Tokyo1.jpg");
+		width:30%;}
+		
+.Asia200{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Tokyo1.jpg");
+		width:100%;}
+		
+.Asia300{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/asia_landmark_building_colored_vectortp.gif");
+		width:100%;}
+		
+.Eur100{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Europe_capitals_culture_resized.png");
+		width:100%;}
+		
+.NA100{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/NA100.jpg");
+	width:100%;}
+		
+.NA4{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/NA100.jpg");
+width:30%;
+background-repeat: no-repeat;}
+		
+.extra5{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Top_appsc-15.png");
+		width:100%;}
+
+.extraaccom{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Accommodation_sign.jpg");
+		width:100%;}
+
+.extratran{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Transport1.jpg");
+		width:100%;}
+
+
+.extraNY{ float: right;
+			margin:0px;
+			width:300px;
+		z-index:10;}
+				
+.extravancouver{ margin:0px;
+				width:300px;
+				z-index:5;}	
+		
+.extraireland{margin:0px;
+				width:300px;
+				z-index:2;}
+	
+
+
+		
+h6{float:left;
+	font-family:indie flower;
+	color:rgb(255,242,58);
+	font-size:30px;
+	margin-right:0px;
+	margin-top:10px;
+	margin-bottom:0px;
+	text-align:left;}
+	
+.logo{float:left;}
+
+h7{ font-family: indie flower;
+	color:rgb(255,242,58);
+	font-size:50px;
+	float:left;
+	position:relative;
+	bottom:0px;		
+	font-weight:900;
+	text-shadow: 0px 0px 5px #000;
+	}
+	
+h8{font-family:Arial;
+	color:#0cd1d1;
+	font-size:27.5px;}
+
+	
+
+.bluey{width:100%;
+		#0cd1d1;}
+		
+figure{border-bottom: 2px solid black;
+			border-left: 2px solid black;
+			border-right: 2px solid black;}
+
+.searchbox{width: 30px;
+			float:right;}
+   
+.TT{font-family:indie flower;
+	color:black;
+	background-color: #eaecf0;
+    border: 1px solid #b9c4e2;
+    padding: 15px 20px;
+    margin: 20px 0;
+}
+
+@font-face{
+	font-family:indie flower;
+	src: url(IndieFlower.tff);}
+
+.credit{
+		
+		}
+	
+#wd{color: white;
+	text-align:center;	
+	width:100%}
+
+
+
