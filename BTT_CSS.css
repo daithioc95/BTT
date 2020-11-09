@@ -1,5 +1,3 @@
-
-
 #links{
 	width:1350px;
 	height:50px;
@@ -63,7 +61,7 @@ body li {
     text-decoration: none;
 	z-index:100;
 	font-family:indie flower;
-	font-size:20px;
+	font-size:17.5px;
 	
 }
 
@@ -81,7 +79,7 @@ body li {
     background-color: #f9f9f9;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-	
+	z-index:110;
 }
 
 .header .dropdown-content a {
@@ -92,7 +90,7 @@ body li {
     text-align: left;
 }
 
-.header .dropdown-content a:hover {background-color: #f1f1f1;}
+.header .dropdown-content a:hover {background-color: #f1f1f1}
 
 .header .dropdown:hover .dropdown-content {
     display: block;
@@ -103,7 +101,7 @@ h1{font-family:indie flower;
 	align:left;
 	margin:5px auto;
 	position:relative;
-	font-size:40px;
+	font-size:35px;
 	}
 	
 
@@ -146,32 +144,32 @@ h2{color:white;
 .column3, .column6, .column9{
 		margin-right: 0%;}	
 
-.column1{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Top_appsc-15.png");}
+.column1{background-image: url("http://budgettraveltips.net/images/Top_appsc-15.png");
+        background-repeat: no-repeat;}
 
-.column2{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Accommodation_sign.jpg");}
+.column2{background-image:url("http://budgettraveltips.net/images/Accommodation_sign.jpg");
+background-repeat: no-repeat;}
 
-.column3{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Transport1.jpg");}
+.column3{background-image: url("http://budgettraveltips.net/images/Transport1.jpg");
+background-repeat: no-repeat;}
 		
-.column4{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Europe_capitals_culture_resized.png");
-		
-		}
-		
-.column5{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/asia_landmark_building_colored_vectortp.gif");
-		background-repeat: no-repeat;}
-
-.column6{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/acrylic-fridge-magnet-ireland-dublin-cartoon1.gif");
+.column4{background-image: url("http://budgettraveltips.net/images/Europe_capitals_culture_resized.png");
 		background-repeat: no-repeat;}
 		
-.column7{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/NY1c-15.jpg");}
+.column5{background-image: url("http://budgettraveltips.net/images/asia_landmark_building_colored_vectortp.gif");
+		background-repeat: no-repeat;}
 
-.column8{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Chicago1.jpeg");}
+.column6{background-image: url("http://budgettraveltips.net/images/acrylic-fridge-magnet-ireland-dublin-cartoon1.gif");
+		background-repeat: no-repeat;}
+		
+.column7{background-image: url("http://budgettraveltips.net/images/NY1c-15.jpg");
+background-repeat: no-repeat;}
 
-.column9{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Vancouver1.jpg");}
+.column8{background-image: url("http://budgettraveltips.net/images/Chicago1.jpeg");
+background-repeat: no-repeat;}
 
-
-
-
-
+.column9{background-image: url("http://budgettraveltips.net/images/Vancouver1.jpg");
+background-repeat: no-repeat;}
 
 
 .column1:hover,.column2:hover,.column3:hover,.column4:hover,.column5:hover,.column6:hover,.column7:hover,.column8:hover,.column9:hover,.Asia1:hover,.Asia2:hover,.Asia100:hover,.Asia200:hover,.NA1:hover,.NA2:hover, .chi1:hover,.chi100:hover,.NY1:hover,.NY100:hover,.extra5:hover,.extratran:hover,.extraaccom:hover, .Asia300:hover, .NA100:hover, .NA4:hover,.Eur100:hover{opacity:0.4;
@@ -183,7 +181,6 @@ footer {height:130px;
   text-align: center;
 	width:100%;
 	background-color: #333;
-	display:block;
 	}
 	
 .allfoot{border-top:5px ridge grey;}
@@ -262,54 +259,54 @@ p{font-family: "Open Sans",sans-serif;
 				z-index:105;
 				background-repeat: no-repeat;}
 			
-.chi1{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Chicago1.jpeg");
+.chi1{background-image: url("http://budgettraveltips.net/images/Chicago1.jpeg");
 	width:30%;}
 	
-.chi100{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Chicago1.jpeg");
+.chi100{background-image: url("http://budgettraveltips.net/images/Chicago1.jpeg");
 	width:100%;}
 
-.van1{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Vancouver1.jpg");
+.van1{background-image: url("http://budgettraveltips.net/images/Vancouver1.jpg");
 	width:30%;
 }
 
-.NY1{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/NY1c-15.jpg");
+.NY1{background-image: url("http://budgettraveltips.net/images/NY1c-15.jpg");
 	width:30%;}
 	
-.NY100{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/NY1c-15.jpg");
+.NY100{background-image: url("http://budgettraveltips.net/images/NY1c-15.jpg");
 	width:100%;}
 	
-.Asia1{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Southeast-asia1.jpg");
+.Asia1{background-image: url("http://budgettraveltips.net/images/Southeast-Asia1.jpg");
 		width:30%}
 		
-.Asia100{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Southeast-asia1.jpg");
+.Asia100{background-image: url("http://budgettraveltips.net/images/Southeast-Asia1.jpg");
 		width:100%}
 
-.Asia2{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Tokyo1.jpg");
+.Asia2{background-image: url("http://budgettraveltips.net/images/Tokyo1.jpg");
 		width:30%;}
 		
-.Asia200{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Tokyo1.jpg");
+.Asia200{background-image: url("http://budgettraveltips.net/images/Tokyo1.jpg");
 		width:100%;}
 		
-.Asia300{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/asia_landmark_building_colored_vectortp.gif");
+.Asia300{background-image: url("http://budgettraveltips.net/images/asia_landmark_building_colored_vectortp.gif");
+		width:100%;}
+
+.Eur100{background-image: url("http://budgettraveltips.net/images/Europe_capitals_culture_resized.png");
 		width:100%;}
 		
-.Eur100{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Europe_capitals_culture_resized.png");
+.NA100{background-image: url("http://budgettraveltips.net/images/NA100.jpg");
 		width:100%;}
 		
-.NA100{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/NA100.jpg");
-	width:100%;}
-		
-.NA4{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/NA100.jpg");
+.NA4{background-image: url("http://budgettraveltips.net/images/NA100.jpg");
 width:30%;
 background-repeat: no-repeat;}
 		
-.extra5{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Top_appsc-15.png");
+.extra5{background-image: url("http://budgettraveltips.net/images/Top_appsc-15.png");
 		width:100%;}
 
-.extraaccom{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Accommodation_sign.jpg");
+.extraaccom{background-image: url("http://budgettraveltips.net/images/Accommodation_sign.jpg");
 		width:100%;}
 
-.extratran{background-image: url("D:/Users/Daithi2/Desktop/Advanced Web development/budgettraveltips.net/images/Transport1.jpg");
+.extratran{background-image: url("http://budgettraveltips.net/images/Transport1.jpg");
 		width:100%;}
 
 
@@ -326,13 +323,11 @@ background-repeat: no-repeat;}
 				width:300px;
 				z-index:2;}
 	
-
-
 		
 h6{float:left;
 	font-family:indie flower;
 	color:rgb(255,242,58);
-	font-size:30px;
+	font-size:25px;
 	margin-right:0px;
 	margin-top:10px;
 	margin-bottom:0px;
@@ -340,9 +335,10 @@ h6{float:left;
 	
 .logo{float:left;}
 
+
 h7{ font-family: indie flower;
 	color:rgb(255,242,58);
-	font-size:50px;
+	font-size:40px;
 	float:left;
 	position:relative;
 	bottom:0px;		
@@ -358,33 +354,16 @@ h8{font-family:Arial;
 
 .bluey{width:100%;
 		#0cd1d1;}
-		
-figure{border-bottom: 2px solid black;
-			border-left: 2px solid black;
-			border-right: 2px solid black;}
 
-.searchbox{width: 30px;
-			float:right;}
-   
-.TT{font-family:indie flower;
-	color:black;
-	background-color: #eaecf0;
-    border: 1px solid #b9c4e2;
-    padding: 15px 20px;
-    margin: 20px 0;
-}
+
+
+figure{display:block;
+text-align:left;}
 
 @font-face{
 	font-family:indie flower;
-	src: url(IndieFlower.tff);}
+	src: url('IndieFlower.ttf');
 
-.credit{
-		
-		}
-	
-#wd{color: white;
-	text-align:center;	
+h9{color:white;
+	text-align:center;
 	width:100%}
-
-
-
